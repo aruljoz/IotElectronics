@@ -1,16 +1,25 @@
-{:new_window: target="_blank"}
+---
+
+copyright:
+  years: 2016, 2017
+lastupdated: "2017-11-09"
+
+---
+
+<!-- Common attributes used in the template are defined as follows: -->
+{:new_window: target="\_blank"}
 {:shortdesc: .shortdesc}
-{:screen:.screen}
-{:codeblock:.codeblock}
+{:codeblock: .codeblock}
+{:pre: .pre}
+{:screen: .screen}
+{:tip: .tip}
 
-
-# {{site.data.keyword.iotelectronics}} 入門
+# {{site.data.keyword.iotelectronics}} の概説
 {: #gettingstartediote}
-*最終更新日: 2016 年 6 月 8 日*
 
-このサービスでは、ユーザーおよびデバイスの登録と通知を伴う {{site.data.keyword.iotelectronics_full}} ソリューションがサポートされます。これは {{site.data.keyword.iotelectronics}} Starter のコンポーネントであるため、別々にデプロイしないでください。
+このサービスはユーザーとデバイスの登録と通知で {{site.data.keyword.iotelectronics_full}} ソリューションをサポートします。それは {{site.data.keyword.iotelectronics}} Starterのコンポーネントであり、別途デプロイされるべきではありません。
 {:shortdesc}
 
-{{site.data.keyword.Bluemix_notm}} カタログの『Boilerplates』セクションにある IoT for Electronics Starter アプリケーションを使用して、IoT for Electronics を始めましょう。[{{site.data.keyword.iotelectronics}} Starter でのアプリケーションの作成](../../starters/IotElectronics/index.html)を参照してください。
+{{site.data.keyword.Bluemix_notm}} カタログのボイラープレート・セクションに配置された {{site.data.keyword.iotelectronics}} Starter アプリを使用して {{site.data.keyword.iotelectronics}} を開始してください。[ {{site.data.keyword.iotelectronics}} Starter によるアプリの作成するを参照してください](/docs/starters/IoTElectronics-starter/iot4egettingstarted.html)。
 
-**重要:** このサービスを Starter の一部としてデプロイする場合は、Starter アプリケーションにアクセスしてソリューションの機能を使用します。このサービスを単体でデプロイする場合は、このインスタンスを削除して、代わりに {{site.data.keyword.iotelectronics}} Starter をインストールします。
+**重要:** Starter の一部としてこのサービスをデプロイした場合は、ソリューションの機能を使用して Starter アプリケーションに進んでください。もし、このサービス自体をデプロイする場合は、このインスタンスを削除し、代わりに {{site.data.keyword.iotelectronics}} Starter をデプロイしてください。

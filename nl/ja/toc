@@ -1,0 +1,26 @@
+{:navgroup: .navgroup}
+{:topicgroup: .topicgroup}
+
+{: .toc subcollection="internet-of-things-electronics" audience="service" href="/docs/services/IotElectronics/index.html"}
+IoT for Electronics
+
+  {: .navgroup id="learn"}
+    index.md
+  {: .navgroup-end}
+
+  {: .navgroup id="reference"}
+    {: .topicgroup}
+    API
+        [IoT for Electronics APIs](https://broker-uss-iot4e.electronics.internetofthings.ibmcloud.com/public/iot4eregistrationapi.html)
+        [IoT for Electronics API examples](https://developer.ibm.com/iotfoundation/recipes/api-documentation/)
+
+    {: .topicgroup}
+    関連資料
+        [IoT for Electronics starter の資料](https://console.ng.bluemix.net/docs/starters/IotElectronics/iot4egettingstarted.html)
+        [Watson IoT Platform の資料](https://www.bluemix.net/docs/services/IoT/iotplatform_overview.html)
+  {: .navgroup-end}
+
+  {: .navgroup id="help"}
+    [Developer support forum](https://www.ibm.com/developerworks/connect/iot/)
+    [Stack overflow support forum](http://stackoverflow.com/questions/tagged/ibm-bluemix)
+  {: .navgroup-end}

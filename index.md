@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2016, 2017
-lastupdated: "2017-11-09"
+  years: 2016, 2018
+lastupdated: "2018-03-06"
 
 ---
 
@@ -13,9 +13,13 @@ lastupdated: "2017-11-09"
 {:pre: .pre}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .deprecated}
 
-# Getting started with {{site.data.keyword.iotelectronics}}
+# Getting started with {{site.data.keyword.iotelectronics}} (Deprecated)
 {: #gettingstartediote}
+
+**This service is deprecated:** All instances of this service are deprecated. Existing instances can be used until 6 April 2019. For more information, see the [deprecation announcement](https://www.ibm.com/blogs/bluemix/2018/03/ibm-iot-electronics-replaced-ibm-iot-connection-service/){: new_window}.  
+{: deprecated}
 
 This service supports the {{site.data.keyword.iotelectronics_full}} solution with user and device registration and notifications. It is a component of the {{site.data.keyword.iotelectronics}} Starter and should not be deployed separately.
 {:shortdesc}

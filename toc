@@ -2,7 +2,7 @@
 {:topicgroup: .topicgroup}
 
 {: .toc subcollection="internet-of-things-electronics" audience="service" href="/docs/services/IotElectronics/index.html"}
-IoT for Electronics
+IoT for Electronics (Deprecated)
 
   {: .navgroup id="learn"}
     index.md
